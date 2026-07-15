@@ -27,4 +27,5 @@
 
 ### ✳ Sample Scene
 
-<img width="615" height="420" alt="Image" src="https://github.com/user-attachments/assets/3ab184a1-dd8e-45fa-bde7-bc59013d3ff8" />
+<img width="800" height="421" alt="play_260715(1)" src="https://github.com/user-attachments/assets/4c2315c9-5de8-4a4f-8936-0eca84d08502" />
+
